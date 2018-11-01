@@ -1,0 +1,19 @@
+---
+title: Here is my first post with the awesome add-in
+author: David Harper
+date: '2018-10-31'
+slug: here-is-my-first-post-with-the-awesome-add-in
+categories:
+  - R
+tags: []
+---
+
+This is so cool ....
+```{r}
+
+### comments
+rnorm(20)
+
+```
+
+
