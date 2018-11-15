@@ -1,0 +1,20 @@
+---
+title: another restart join data
+author: david harper
+date: '2018-11-14'
+slug: another-restart-join-data
+categories: []
+tags:
+  - datacamp
+---
+
+Here is Join Data in R with dplyr
+
+```{r}
+
+aero <- read.csv(file = "aerosmith.csv")
+aero
+
+
+```
+
